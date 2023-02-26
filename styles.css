@@ -1,6 +1,15 @@
 .tag1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 	background-color: orange;
-	padding: 10% 20%;
+    height: 100vh;
+    width: 100vw;
+}
+
+.tag1-1 {
+    align-self: center;
 }
 
 .tag2 {
